@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @truonghoailinh47
+- 👋 Hi, I’m @truonghoailinh
 - 👀 I’m interested in simulate electric field of nanoparticles 
 - 🌱 I’m currently learning Meep Python
 - 💞️ I’m looking to collaborate on Meep python
