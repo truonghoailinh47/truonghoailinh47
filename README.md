@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @truonghoailinh
+- 👋 Hi, I’m @truonghoailinh47
 - 👀 I’m interested in molecular dynamic simulation
 - 🌱 I’m currently learning MD simulation related to protein protein interactions
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on MD simulation projecs
 - 📫 How to reach me ...
 
 <!---
