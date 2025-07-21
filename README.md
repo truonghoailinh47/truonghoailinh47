@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @truonghoailinh
-- 👀 I’m interested in simulate electric field of nanoparticles 
-- 🌱 I’m currently learning Meep Python
-- 💞️ I’m looking to collaborate on Meep python
+- 👀 I’m interested in molecular dynamic simulation
+- 🌱 I’m currently learning MD simulation related to protein protein interactions
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
